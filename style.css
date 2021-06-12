@@ -1,0 +1,15 @@
+#sort_btn{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#submit_btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+}
+body{
+    vertical-align: text-top;
+}
